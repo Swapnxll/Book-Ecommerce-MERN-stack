@@ -1,1 +1,1 @@
-A book e-commerce website using the MERN stack. The site includes features such as user authentication, a shopping cart, and a payment gateway. Additionally, I've integrated a book recommendation system, which is another one of my machine learning projects. This integration enhances the user experience by providing personalized book suggestions.
+
